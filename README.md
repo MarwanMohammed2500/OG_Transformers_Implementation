@@ -18,6 +18,8 @@ src/
 
 test_cases/
 └── test_transformer_component.py 		# Testing every component (Using PyTest)
+
+Transformer_implementation.ipynb        # Exploratory Notebook
 ```
 
 ---
